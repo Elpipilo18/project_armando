@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="welcome_message">Bienvenido</string>
+    <string name="tempLabel">Temperatura</string>
+    <string name="humidityLabel">Humedad</string>
+    <string name="title">Selecciona la opción a visualizar</string>
+    <string name="temperature_records">Registros de Temperatura</string>
+    <string name="humidity_records">Registros de Humedad</string>
+
+    <string name="record_date">Fecha</string>
+    <string name="record_value">Valor leido</string>
+    <string name="record_unit">Unidad</string>
+
+    <string name="delete_record">Eliminar</string>
+    <string name="degree_example">36.5°C</string>
+    <string name="time_example">00:00</string>
+    <string name="date_example">Lunes 15, Julio 2025</string>
+
+</resources>
